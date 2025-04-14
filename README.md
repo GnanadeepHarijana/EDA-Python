@@ -22,4 +22,5 @@ The Complete Code for EDA is Available in the [EDA_PythonCode.py] (https://githu
 To run the EDA analysis, clone this repository and run the Jupyter notebooks or Python scripts inside the `notebooks` or `scripts` folder.
 
 ## Results/Outputs
-The EDA process includes visualizations such as histograms, scatter plots, and box plots, which are stored in the **images** folder.
+The EDA process includes visualizations such as histograms, scatter plots, and box plots, which are stored in the output folder.
+
