@@ -4,7 +4,7 @@ Exploratory Data Analysis (EDA) on Superstore Dataset using Python. This project
 ## Dataset
 The raw dataset used for this project is available in the **data** folder. 
 
-- **File Name**: Raw_Dataset.csv
+- **File Name**: [Raw_Dataset.csv] (https://github.com/GnanadeepHarijana/EDA-Python/blob/main/Raw_Dataset.csv)
 - **File Type**: [CSV]
 
 ## Technologies Used
@@ -13,6 +13,10 @@ The raw dataset used for this project is available in the **data** folder.
 - Pandas
 - Matplotlib
 - Seaborn
+
+## Code
+
+The Complete Code for EDA is Available in the [EDA_PythonCode.py] 
 
 ## Usage
 To run the EDA analysis, clone this repository and run the Jupyter notebooks or Python scripts inside the `notebooks` or `scripts` folder.
