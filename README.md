@@ -16,7 +16,7 @@ The raw dataset used for this project is available in the **data** folder.
 
 ## Code
 
-The Complete Code for EDA is Available in the [EDA_PythonCode.py] 
+The Complete Code for EDA is Available in the [EDA_PythonCode.py] (https://github.com/GnanadeepHarijana/EDA-Python/blob/main/EDA_pythonCode.py)
 
 ## Usage
 To run the EDA analysis, clone this repository and run the Jupyter notebooks or Python scripts inside the `notebooks` or `scripts` folder.
