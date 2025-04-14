@@ -23,4 +23,4 @@ To run the EDA analysis, clone this repository and run the Jupyter notebooks or 
 
 ## Results/Outputs
 The EDA process includes visualizations such as histograms, scatter plots, and box plots, which are stored in the output folder.
-
+(https://github.com/GnanadeepHarijana/EDA-Python/tree/main/output)
